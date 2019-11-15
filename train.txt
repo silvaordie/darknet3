@@ -1,8 +1,8 @@
-testing/darknet/img/Picture1.png
-testing/darknet/img/Picture2.png
-testing/darknet/img/Picture3.png
-testing/darknet/img/Picture4.png
-testing/darknet/img/Picture5.png
-testing/darknet/img/Picture6.png
-testing/darknet/img/Picture7.png
+/content/darknet/darknet3/img/Picture1.png
+/content/darknet/darknet3/img/Picture2.png
+/content/darknet/darknet3/img/Picture3.png
+/content/darknet/darknet3/img/Picture4.png
+/content/darknet/darknet3/img/Picture5.png
+/content/darknet/darknet3/img/Picture6.png
+/content/darknet/darknet3/img/Picture7.png
 
