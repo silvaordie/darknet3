@@ -1,5 +1,0 @@
-classes= 3
-train= /content/darknet/darknet3/train.txt
-valid= /content/darknet/darknet3/test.txt
-names= /content/darknet/darknet3/obj.names
-backup= /content/darknet/darknet3/backup
